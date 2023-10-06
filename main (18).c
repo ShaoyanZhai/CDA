@@ -6,7 +6,7 @@
 
 #define SIZE 32
 
-struct cache
+*struct cache
 {
   char BlockAddr[SIZE];
   int cache_accesses; 
